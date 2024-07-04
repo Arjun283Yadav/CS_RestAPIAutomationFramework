@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-02T09:56:08 IST" name="Suite" finished-at="2024-07-02T09:56:30 IST" duration-ms="22537">
+    <groups>
+    </groups>
+    <test started-at="2024-07-02T09:56:08 IST" name="Test" finished-at="2024-07-02T09:56:30 IST" duration-ms="22537">
+      <class name="api.testcases.UserTestCase2">
+        <test-method is-config="true" signature="generateTestData()[pri:0, instance:api.testcases.UserTestCase2@6a192cfe]" started-at="2024-07-02T09:56:08 IST" name="generateTestData" finished-at="2024-07-02T09:56:09 IST" duration-ms="801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateTestData -->
+        <test-method signature="testCreateUser()[pri:1, instance:api.testcases.UserTestCase2@6a192cfe]" started-at="2024-07-02T09:56:09 IST" name="testCreateUser" finished-at="2024-07-02T09:56:13 IST" duration-ms="4375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateUser -->
+        <test-method signature="testGetUser()[pri:2, instance:api.testcases.UserTestCase2@6a192cfe]" started-at="2024-07-02T09:56:13 IST" name="testGetUser" finished-at="2024-07-02T09:56:17 IST" duration-ms="3592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUser -->
+        <test-method signature="testUpdateUser()[pri:3, instance:api.testcases.UserTestCase2@6a192cfe]" started-at="2024-07-02T09:56:17 IST" name="testUpdateUser" finished-at="2024-07-02T09:56:27 IST" duration-ms="10542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateUser -->
+        <test-method signature="testdeleteUser()[pri:4, instance:api.testcases.UserTestCase2@6a192cfe]" started-at="2024-07-02T09:56:27 IST" name="testdeleteUser" finished-at="2024-07-02T09:56:30 IST" duration-ms="2961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdeleteUser -->
+      </class> <!-- api.testcases.UserTestCase2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
